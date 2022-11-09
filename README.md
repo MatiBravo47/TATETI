@@ -3,7 +3,7 @@
 ### Requisitos:
 
 ![](https://img.shields.io/badge/node%20-%3E%3D14-success?style=for-the-badge&logo=appveyor)
-![](https://img.shields.io/badge/npm%20-%3E%3D5.6-success?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/npm%20-%3E%3D5.6-red?style=for-the-badge&logo=npm)
  <br>
  ver version de node en linux:
   <br>
