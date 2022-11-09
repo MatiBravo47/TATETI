@@ -9,6 +9,6 @@ abrir terminal en la carpeta de destino
 <br>
 `git clone https://github.com/MatiBravo47/TATETI.git`
 <br>
-`cd tic-tac-toe-react`
+`cd TATETI`
 <br>
 `npm start`
