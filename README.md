@@ -11,7 +11,6 @@
 <br>
 Descargar node y npm:
  https://nodejs.org/en/
-<br>
 ### Pasos:
 abrir terminal en la carpeta de destino
 <br>
