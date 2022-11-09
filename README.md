@@ -12,6 +12,3 @@ abrir terminal en la carpeta de destino
 `cd tic-tac-toe-react`
 <br>
 `npm start`
-# TATETI
-# TATETI
-# TATETI
