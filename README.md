@@ -4,6 +4,7 @@
  Node >= 14.0.0 y npm >= 5.6
  <br>
  ver version de node en linux:
+  <br>
 `node --version`
  https://nodejs.org/en/
 <br>
