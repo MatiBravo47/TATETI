@@ -6,6 +6,8 @@
  ver version de node en linux:
   <br>
 `node --version`
+ <br>
+`npm --version`
 <br>
 Descargar node y npm:
  https://nodejs.org/en/
