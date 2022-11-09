@@ -5,7 +5,7 @@
  <br>
  https://nodejs.org/en/
 <br>
-### Pasos
+### Pasos:
 abrir terminal en la carpeta de destino
 <br>
 `git clone https://github.com/MatiBravo47/TATETI.git`
