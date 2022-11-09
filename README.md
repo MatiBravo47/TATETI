@@ -1,4 +1,4 @@
-# tic-tac-toe-react
+# tic-tac-toe react
 ### Pasos
 ### requisitos:
  Node >= 14.0.0 y npm >= 5.6
