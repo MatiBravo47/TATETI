@@ -7,7 +7,7 @@
   <br>
 `node --version`
 <br>
-Descargar node y NPM:
+Descargar node y npm:
  https://nodejs.org/en/
 <br>
 ### Pasos:
