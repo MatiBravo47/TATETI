@@ -1,6 +1,6 @@
 # tic-tac-toe react
 
-### requisitos:
+### Requisitos:
  Node >= 14.0.0 y npm >= 5.6
  <br>
  https://nodejs.org/en/
