@@ -11,4 +11,6 @@ abrir terminal en la carpeta de destino
 <br>
 `cd TATETI`
 <br>
+`npm install`
+<br>
 `npm start`
