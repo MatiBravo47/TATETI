@@ -25,3 +25,5 @@ abrir terminal en la carpeta de destino
 `npm install`
 <br>
 `npm start`
+
+- https://tatetireact.netlify.app/
