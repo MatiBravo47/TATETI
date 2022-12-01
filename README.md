@@ -1,4 +1,4 @@
-# tic-tac-toe react
+# tic-tac-toe React
 
 ### Requisitos:
 
