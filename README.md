@@ -18,12 +18,13 @@ Descargar node y npm:
 ### Pasos:
 abrir terminal en la carpeta de destino
 <br>
-`git clone https://github.com/MatiBravo47/TATETI.git`
+```bash
+git clone https://github.com/MatiBravo47/TATETI.git`
 <br>
-`cd TATETI`
+cd TATETI
 <br>
-`npm install`
+npm install
 <br>
-`npm start`
-
+npm start`
+```
 - https://tatetireact.netlify.app/
