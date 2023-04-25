@@ -40,22 +40,24 @@ function Square(props) {
     render() {
       return (
         // sintaxis JSX
-        <div>
-          <div className="board-row">
-            {this.renderSquare(0)}
-            {this.renderSquare(1)}
-            {this.renderSquare(2)}
-          </div>
-          <div className="board-row">
-            {this.renderSquare(3)}
-            {this.renderSquare(4)}
-            {this.renderSquare(5)}
-          </div>
-          <div className="board-row">
-            {this.renderSquare(6)}
-            {this.renderSquare(7)}
-            {this.renderSquare(8)}
-          </div>
+        <div className='container'>
+          <table className='board'>
+            <tr>
+              <td>{this.renderSquare(0)}</td>
+              <td>{this.renderSquare(1)}</td>
+              <td>{this.renderSquare(2)}</td>
+            </tr>
+            <tr>
+              <td>{this.renderSquare(3)}</td>
+              <td>{this.renderSquare(4)}</td>
+              <td>{this.renderSquare(5)}</td>
+            </tr>
+            <tr>
+              <td>{this.renderSquare(6)}</td>
+              <td>{this.renderSquare(7)}</td>
+              <td>{this.renderSquare(8)}</td>
+            </tr>
+          </table>
         </div>
       );
     }
@@ -215,3 +217,5 @@ function Square(props) {
     //si no existe ganador no retorna nada
     return null;
   }
+
+  

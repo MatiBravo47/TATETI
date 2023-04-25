@@ -8,6 +8,11 @@ ol, ul {
   padding-left: 30px;
 }
 
+.container {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
 .board-row:after {
   clear: both;
   content: "";
